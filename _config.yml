@@ -42,23 +42,23 @@ mailchimp__button__text: Get a new tip
 
 #-------------------------------
 # Gallery Footer Section
-gallery:
-  gallery__title: Gallery
-  gallery__columns: 3
-  gallery__images:
+# gallery:
+#   gallery__title: Gallery
+#   gallery__columns: 3
+#   gallery__images:
  
-    - alt: 'Notes'
-      url: '/images/103.jpg'
-    - alt: 'Rest'
-      url: '/images/104.jpg'
-    - alt: 'Hobby'
-      url: '/images/105.jpg'
-    - alt: 'Fashion'
-      url: '/images/106.jpg'
-    - alt: 'Notes'
-      url: '/images/107.jpg'
-    - alt: 'Rest'
-      url: '/images/108.jpg'
+#     - alt: 'Notes'
+#       url: '/images/103.jpg'
+#     - alt: 'Rest'
+#       url: '/images/104.jpg'
+#     - alt: 'Hobby'
+#       url: '/images/105.jpg'
+#     - alt: 'Fashion'
+#       url: '/images/106.jpg'
+#     - alt: 'Notes'
+#       url: '/images/107.jpg'
+#     - alt: 'Rest'
+#       url: '/images/108.jpg'
 
 
 #-------------------------------

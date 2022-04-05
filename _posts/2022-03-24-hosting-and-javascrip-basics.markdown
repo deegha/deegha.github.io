@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  hositing and javascript basics
-description: Explaning hosting along with javascript basics
+title:  hositing and javascript fundamentals
+description: Explaning hosting along with javascript fundamentals
 date:   2022-03-24 15:01:35 +0300
 image:  'https://res.cloudinary.com/duqpgdc9v/image/upload/v1649178305/deegha/hositing_and_execution_context.png'
 tags:   [tech. javaScripts]
